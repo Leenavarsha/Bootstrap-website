@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.card img {
+    height: 250px;
+    object-fit: cover;
+}
+
+button:hover {
+    transform: scale(1.05);
+    transition: 0.3s ease;
+}
