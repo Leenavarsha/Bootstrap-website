@@ -32,9 +32,3 @@ The purpose of this project is to learn and implement **Bootstrap 5 classes and 
 
 ## Project Type
 Restaurant Website / Menu Page
-
-## Author
-Your Name
-
-## GitHub Repository
-(Add your GitHub repository link here)
